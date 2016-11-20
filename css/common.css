@@ -1,0 +1,114 @@
+html, body {
+    font-family: '微软雅黑', 'Raleway', 'sans-serif';
+    font-size: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 30px;
+
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.txt-a-l {
+    text-align: left;
+}
+
+.txt-a-r {
+    text-align: right;
+}
+
+.c-b1 {
+    color: #078ee0;
+}
+
+.bg-c-gray1 {
+    background: #f6f6f6;
+}
+
+.bg-c-bl {
+    background: #13182e;
+}
+
+li {
+    list-style: none;
+}
+
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
+
+.content {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.o-f-h {
+    overflow: hidden;
+}
+
+.pos-ab {
+    position: absolute;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.main-logo {
+    float: left;
+    width: 120px;
+    font-size: 40px;
+    color: #00A2C1;
+}
+
+.footer-sec1 {
+    height: 385px;
+    overflow: hidden
+}
+
+.bottom-list {
+    float: left;
+    margin-left: 100px;
+    margin-top: 60px;
+    width: 220px;
+    font-size: 16px;
+    color: #fff;
+    line-height: 55px;
+}
+
+.bottom-list li a {
+    font-size: 14px;
+    color: #fff;
+}
+
+.footer-bottom {
+    width: 100%;
+    border-top: 1px solid #00A2C1;
+}
